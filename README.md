@@ -33,12 +33,6 @@ Data `username` dan `token` disimpan menggunakan `SharedPreferences`. Saat pengg
 - `shared_preferences`: Penyimpanan data lokal
 - `fluttertoast`: Notifikasi sederhana
 
-## 📷 Preview UI
-
-Berikut contoh tampilan halaman profil saat belum login:
-
-![Halaman Profil - Belum Login](preview/profil-belum-login.png)
-
 ## 🚀 Cara Menjalankan Proyek
 
 1. Clone repositori ini:
